@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SQift",
+        "repositoryURL": "https://github.com/wildthink/SQift",
+        "state": {
+          "branch": null,
+          "revision": "6bb12b9fcd7534eecbfc0de99ba0724a79675bff",
+          "version": "5.2.0"
+        }
+      },
+      {
+        "package": "SQiftViewModel",
+        "repositoryURL": "https://github.com/wildthink/SQiftViewModel",
+        "state": {
+          "branch": "master",
+          "revision": "e40060c766297ce5a9a3293c0ec99042810d71f8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
