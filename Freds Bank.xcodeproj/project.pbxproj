@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9630EF7A245927DE008F843C /* SnapshotTesting in Frameworks */ = {isa = PBXBuildFile; productRef = 9630EF79245927DE008F843C /* SnapshotTesting */; };
 		96AECA402458FE300024833F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AECA3F2458FE300024833F /* AppDelegate.swift */; };
 		96AECA442458FE300024833F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AECA432458FE300024833F /* ViewController.swift */; };
 		96AECA472458FE300024833F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96AECA452458FE300024833F /* Main.storyboard */; };
@@ -65,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9630EF7A245927DE008F843C /* SnapshotTesting in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +169,9 @@
 				96AECA542458FE350024833F /* PBXTargetDependency */,
 			);
 			name = "Freds BankTests";
+			packageProductDependencies = (
+				9630EF79245927DE008F843C /* SnapshotTesting */,
+			);
 			productName = "Freds BankTests";
 			productReference = 96AECA522458FE350024833F /* Freds BankTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -223,6 +228,7 @@
 			mainGroup = 96AECA332458FE300024833F;
 			packageReferences = (
 				96AECA6F2458FE630024833F /* XCRemoteSwiftPackageReference "SQiftViewModel" */,
+				9630EF78245927DE008F843C /* XCRemoteSwiftPackageReference "swift-snapshot-testing" */,
 			);
 			productRefGroup = 96AECA3D2458FE300024833F /* Products */;
 			projectDirPath = "";
@@ -600,6 +606,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		9630EF78245927DE008F843C /* XCRemoteSwiftPackageReference "swift-snapshot-testing" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/pointfreeco/swift-snapshot-testing";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 		96AECA6F2458FE630024833F /* XCRemoteSwiftPackageReference "SQiftViewModel" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/wildthink/SQiftViewModel";
@@ -611,6 +625,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		9630EF79245927DE008F843C /* SnapshotTesting */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9630EF78245927DE008F843C /* XCRemoteSwiftPackageReference "swift-snapshot-testing" */;
+			productName = SnapshotTesting;
+		};
 		96AECA702458FE630024833F /* SQiftViewModel */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 96AECA6F2458FE630024833F /* XCRemoteSwiftPackageReference "SQiftViewModel" */;

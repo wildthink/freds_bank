@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         appViewModel.delegate = self
-        modelWillCommit(appViewModel)
+        modelWillCommit(baseViewModel)
         return true
     }
 }
