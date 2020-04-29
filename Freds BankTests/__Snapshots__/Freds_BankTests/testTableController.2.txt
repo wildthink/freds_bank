@@ -1,0 +1,83 @@
+<UITableView; frame = (0 0; 320 568); clipsToBounds = YES; autoresize = W+H; gestureRecognizers = <NSArray>; layer = <CALayer>; contentOffset: {0, -20}; contentSize: {320, 9528}; adjustedContentInset: {20, 0, 0, 0}; dataSource: <SQiftViewModel.TableViewController>>
+   | <UITableViewCell; frame = (0 672; 320 56); text = 'LITTLE FALLS'; clipsToBounds = YES; hidden = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 106.5 20.5); text = 'LITTLE FALLS'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 127.5 14.5); text = '4701 Sangamore Road'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 616; 320 56); text = 'ARLINGTON'; clipsToBounds = YES; hidden = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 94.5 20.5); text = 'ARLINGTON'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 105 14.5); text = '4700 Lee Highway'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 560; 320 56); text = 'ARLINGTON'; clipsToBounds = YES; hidden = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 94.5 20.5); text = 'ARLINGTON'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 105 14.5); text = '4700 Lee Highway'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 504; 320 56); text = 'Dolley Madison 3'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 131.5 20.5); text = 'Dolley Madison 3'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 92.5 14.5); text = '6890 Elm Street'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 448; 320 56); text = 'Dolley Madison 3'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 131.5 20.5); text = 'Dolley Madison 3'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 92.5 14.5); text = '6890 Elm Street'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 392; 320 56); text = 'Dolley Madison 1'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 129 20.5); text = 'Dolley Madison 1'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 92.5 14.5); text = '6890 Elm Street'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 336; 320 56); text = 'Dolley Madison 1'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 129 20.5); text = 'Dolley Madison 1'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 92.5 14.5); text = '6890 Elm Street'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 280; 320 56); text = 'AMERICAN UNIVERSITY'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 185.5 20.5); text = 'AMERICAN UNIVERSITY'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 169 14.5); text = '4400 Massachusetts AVE NW'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 224; 320 56); text = 'AMERICAN UNIVERSITY'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 185.5 20.5); text = 'AMERICAN UNIVERSITY'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 169 14.5); text = '4400 Massachusetts AVE NW'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 168; 320 56); text = 'BALLSTON COMMON MALL'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 217 20.5); text = 'BALLSTON COMMON MALL'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 185 14.5); text = '4100 Wilson Boulevard, 1s...'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 112; 320 56); text = 'BALLSTON COMMON MALL'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 217 20.5); text = 'BALLSTON COMMON MALL'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 185 14.5); text = '4100 Wilson Boulevard, 1s...'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 56; 320 56); text = 'LEE HIGHWAY/GEORGE MASON'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 247 20.5); text = 'LEE HIGHWAY/GEORGE MASON'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 104.5 14.5); text = '5222 Lee Highway'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 0; 320 56); text = 'LEE HIGHWAY/GEORGE MASON'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 56); clipsToBounds = YES; opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 9; 247 20.5); text = 'LEE HIGHWAY/GEORGE MASON'; opaque = NO; layer = <_UILabelLayer>>
+   |    |    | <UITableViewLabel; frame = (16 31.5; 104.5 14.5); text = '5222 Lee Highway'; opaque = NO; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 54.5; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 55.5; 304 0.5); layer = <CALayer>>
+   | <_UIScrollViewScrollIndicator; frame = (3 542; 311 3); alpha = 0; autoresize = TM; layer = <CALayer>>
+   |    | <UIView; frame = (0 0; 311 3); layer = <CALayer>>
+   | <_UIScrollViewScrollIndicator; frame = (314 3; 3 36); alpha = 0; autoresize = LM; layer = <CALayer>>
+   |    | <UIView; frame = (0 0; 3 36); layer = <CALayer>>

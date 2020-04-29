@@ -1,0 +1,6320 @@
+[
+  {
+    "_id": "56c66be5a73e4927415071a4",
+    "name": "LEE HIGHWAY/GEORGE MASON",
+    "phone_number": "(703) 237-0146",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5222",
+      "state": "VA",
+      "street_name": "Lee Highway",
+      "zip": "22207",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.1333157,
+      "lat": 38.8960952
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071a5",
+    "name": "BALLSTON COMMON MALL",
+    "phone_number": "(703) 558-2230",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4100",
+      "state": "VA",
+      "street_name": "Wilson Boulevard, 1st Floor",
+      "zip": "22203",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.109526,
+      "lat": 38.879446
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071a6",
+    "name": "AMERICAN UNIVERSITY",
+    "phone_number": "(202) 537-2800",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 5 PM",
+      "Sat"
+    ],
+    "notes": [
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "4400",
+      "state": "DC",
+      "street_name": "Massachusetts AVE NW",
+      "zip": "20016",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0871844,
+      "lat": 38.9392871
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071a7",
+    "name": "SEVEN CORNERS",
+    "phone_number": "(703) 534-2540",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6367",
+      "state": "VA",
+      "street_name": "Seven Corners Center",
+      "zip": "22044",
+      "city": "Falls Church"
+    },
+    "geocode": {
+      "lng": -77.1506881,
+      "lat": 38.8689155
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071a8",
+    "name": "ROSSLYN",
+    "phone_number": "(703) 528-7325",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1100",
+      "state": "VA",
+      "street_name": "Wilson Boulevard",
+      "zip": "22209",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.0702878,
+      "lat": 38.8947171
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071a3",
+    "name": "ARLINGTON",
+    "phone_number": "(703) 812-8550",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4700",
+      "state": "VA",
+      "street_name": "Lee Highway",
+      "zip": "22207",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.1211338,
+      "lat": 38.8981779
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071a9",
+    "name": "LITTLE FALLS",
+    "phone_number": "(301) 320-3800",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4701",
+      "state": "MD",
+      "street_name": "Sangamore Road",
+      "zip": "20816",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.1192523,
+      "lat": 38.9500943
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071aa",
+    "name": "SPRING VALLEY",
+    "phone_number": "(202) 363-2253",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4860",
+      "state": "DC",
+      "street_name": "Massachusetts AVE, NW",
+      "zip": "20016",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0961428,
+      "lat": 38.9449596
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ab",
+    "name": "GEORGETOWN (DC)",
+    "phone_number": "(202) 337-4540",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1545",
+      "state": "DC",
+      "street_name": "Wisconsin AVE, NW",
+      "zip": "20007",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0646324,
+      "lat": 38.9102227
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ad",
+    "name": "MCLEAN",
+    "phone_number": "(703) 893-1501",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1439",
+      "state": "VA",
+      "street_name": "Chain Bridge Road",
+      "zip": "22101",
+      "city": "McLean"
+    },
+    "geocode": {
+      "lng": -77.17829449999999,
+      "lat": 38.932887
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ae",
+    "name": "COLUMBIA PIKE",
+    "phone_number": "(703) 553-3750",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3532",
+      "state": "VA",
+      "street_name": "Columbia Pike",
+      "zip": "22204",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.09358499999999,
+      "lat": 38.8605859
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071af",
+    "name": "TENLEY",
+    "phone_number": "(202) 237-1910",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4000",
+      "state": "DC",
+      "street_name": "Wisconsin AVE",
+      "zip": "20016",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0848741,
+      "lat": 38.9590565
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b0",
+    "name": "Dolley Madison Blvd/Mclean",
+    "phone_number": "(703) 917-1622",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6890",
+      "state": "VA",
+      "street_name": "Elm Street",
+      "zip": "22101",
+      "city": "McLean"
+    },
+    "geocode": {
+      "lng": -77.1823211,
+      "lat": 38.9380881
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b1",
+    "name": "LEESBURG PIKE PLAZA",
+    "phone_number": "(703) 820-4205",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3499",
+      "state": "VA",
+      "street_name": "S. Jefferson ST",
+      "zip": "22041",
+      "city": "Bailey's Crossroads"
+    },
+    "geocode": {
+      "lng": -77.1172646,
+      "lat": 38.8491288
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ac",
+    "name": "FALLS CHURCH",
+    "phone_number": "(703) 237-1023",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1100",
+      "state": "VA",
+      "street_name": "W. Broad ST",
+      "zip": "22046",
+      "city": "Falls Church"
+    },
+    "geocode": {
+      "lng": -77.18639209999999,
+      "lat": 38.8923369
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b2",
+    "name": "WESTBARD",
+    "phone_number": "(301) 961-2060",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5370",
+      "state": "MD",
+      "street_name": "Westbard AVE",
+      "zip": "20816",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.1066261,
+      "lat": 38.96369560000001
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b4",
+    "name": "IDYLWOOD PLAZA",
+    "phone_number": "(703) 448-4290",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7501",
+      "state": "VA",
+      "street_name": "Leesburg Pike",
+      "zip": "22043",
+      "city": "Falls Church"
+    },
+    "geocode": {
+      "lng": -77.20388249999999,
+      "lat": 38.9024769
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b3",
+    "name": "CLEVELAND PARK",
+    "phone_number": "(202) 537-2273",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3519",
+      "state": "DC",
+      "street_name": "Connecticut AVE",
+      "zip": "20008",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0582046,
+      "lat": 38.93625110000001
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b6",
+    "name": "18TH &amp; M",
+    "phone_number": "(202) 463-1470",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1800",
+      "state": "DC",
+      "street_name": "M ST, NW",
+      "zip": "20036",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.04193819999999,
+      "lat": 38.9053571
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b7",
+    "name": "WESTERN AVENUE",
+    "phone_number": "(301) 654-8900",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5459",
+      "state": "MD",
+      "street_name": "Wisconsin AVE",
+      "zip": "20815",
+      "city": "Chevy Chase"
+    },
+    "geocode": {
+      "lng": -77.0849195,
+      "lat": 38.9625208
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b5",
+    "name": "PENTAGON CITY",
+    "phone_number": "(703) 418-2926",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1100",
+      "state": "VA",
+      "street_name": "S. Hayes ST",
+      "zip": "22202",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.0601179,
+      "lat": 38.8639404
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b8",
+    "name": "PENNSYLVANIA AVENUE",
+    "phone_number": "(202) 467-4188",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1717",
+      "state": "DC",
+      "street_name": "Pennsylvania AVE, NW",
+      "zip": "20006",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.040381,
+      "lat": 38.89952
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071b9",
+    "name": "1700 K STREET",
+    "phone_number": "(202) 296-7601",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1700",
+      "state": "DC",
+      "street_name": "K ST",
+      "zip": "20006",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0399522,
+      "lat": 38.902173
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ba",
+    "name": "17TH &amp; L",
+    "phone_number": "(202) 728-2500",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1100",
+      "state": "DC",
+      "street_name": "17th ST, NW",
+      "zip": "20036",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.03852479999999,
+      "lat": 38.9037384
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071bb",
+    "name": "McLean Headquarters",
+    "phone_number": "(703) 448-3747",
+    "hours": [
+      "Sun",
+      "Mon 8:30 AM - 5 PM",
+      "Tue 8:30 AM - 5 PM",
+      "Wed 8:30 AM - 5 PM",
+      "Thu 8:30 AM - 5 PM",
+      "Fri 8:30 AM - 5 PM",
+      "Sat"
+    ],
+    "notes": [],
+    "address": {
+      "street_number": "1680",
+      "state": "VA",
+      "street_name": "Capital One Dr.",
+      "zip": "22102",
+      "city": "McLean"
+    },
+    "geocode": {
+      "lng": -77.212276,
+      "lat": 38.9257487
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071bc",
+    "name": "MCPHERSON SQUARE",
+    "phone_number": "(202) 408-1657",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "925",
+      "state": "DC",
+      "street_name": "15th ST, N.W.",
+      "zip": "20005",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.033287,
+      "lat": 38.902006
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071be",
+    "name": "COLUMBIA SQUARE/12TH &amp; F STREETS",
+    "phone_number": "(202) 347-4393",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1200",
+      "state": "DC",
+      "street_name": "F ST, NW",
+      "zip": "20004",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0282675,
+      "lat": 38.897154
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071bd",
+    "name": "CHEVY CHASE CIRCLE",
+    "phone_number": "(202) 237-1966",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5714",
+      "state": "DC",
+      "street_name": "Connecticut AVE, NW",
+      "zip": "20015",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0767568,
+      "lat": 38.9663478
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c0",
+    "name": "901 NEW YORK AVENUE",
+    "phone_number": "(202) 289-7924",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "901",
+      "state": "DC",
+      "street_name": "New York AVE, NW",
+      "zip": "20001",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.02518950000001,
+      "lat": 38.9021414
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071bf",
+    "name": "CRYSTAL CITY II",
+    "phone_number": "(703) 418-3804",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2100",
+      "state": "VA",
+      "street_name": "F Crystal Drive",
+      "zip": "22202",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.0497192,
+      "lat": 38.8550463
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c1",
+    "name": "TYSON'S INTERNATIONAL DRIVE",
+    "phone_number": "(703) 288-6460",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8110",
+      "state": "VA",
+      "street_name": "Fletcher ST",
+      "zip": "22102",
+      "city": "McLean"
+    },
+    "geocode": {
+      "lng": -77.2258877,
+      "lat": 38.9175184
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c2",
+    "name": "BETHESDA AVENUE",
+    "phone_number": "(301) 656-5402",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4708",
+      "state": "MD",
+      "street_name": "Bethesda AVE",
+      "zip": "20814",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.0935135,
+      "lat": 38.9808356
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c3",
+    "name": "BRADLEE CENTER",
+    "phone_number": "(703) 998-6502",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3690",
+      "state": "VA",
+      "street_name": "- A King ST",
+      "zip": "22302",
+      "city": "Alexandria"
+    },
+    "geocode": {
+      "lng": -77.0920119,
+      "lat": 38.8298056
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c5",
+    "name": "MARKET SQUARE",
+    "phone_number": "(202) 737-4950",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "701",
+      "state": "DC",
+      "street_name": "Pennsylvania AVE NW",
+      "zip": "20004",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0223723,
+      "lat": 38.8944693
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c6",
+    "name": "MT. VERNON TRIANGLE/CITY VISTA/DC",
+    "phone_number": "(202) 289-2200",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1075",
+      "state": "DC",
+      "street_name": "5th St NW",
+      "zip": "20001",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0187698,
+      "lat": 38.9034306
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c4",
+    "name": "TYSON'S CORNER",
+    "phone_number": "(703) 893-1504",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "8201",
+      "state": "VA",
+      "street_name": "Greensboro Drive, Suite 110",
+      "zip": "22102",
+      "city": "McLean"
+    },
+    "geocode": {
+      "lng": -77.2272485,
+      "lat": 38.92231049999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c7",
+    "name": "7501 WISCONSIN AVENUE",
+    "phone_number": "(240) 497-4101",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "7501",
+      "state": "MD",
+      "street_name": "Wisconsin AVE",
+      "zip": "20814",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.093595,
+      "lat": 38.9854212
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c8",
+    "name": "REAGAN NATIONAL AIRPORT",
+    "phone_number": "(703) 418-3880",
+    "hours": [
+      "Sun",
+      "Mon 8 AM - 6 PM",
+      "Tue 8 AM - 6 PM",
+      "Wed 8 AM - 6 PM",
+      "Thu 8 AM - 6 PM",
+      "Fri 8 AM - 6 PM",
+      "Sat 8 AM - 4 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "Rm. B2518",
+      "state": "VA",
+      "street_name": "",
+      "zip": "20001",
+      "city": "Arlington"
+    },
+    "geocode": {
+      "lng": -77.169619,
+      "lat": 38.870767
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ca",
+    "name": "CORDELL AVENUE",
+    "phone_number": "(301) 652-7060",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4825",
+      "state": "MD",
+      "street_name": "Cordell AVE",
+      "zip": "20814",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.0969313,
+      "lat": 38.9909768
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071c9",
+    "name": "First and H Street NW",
+    "phone_number": "(202) 594-3348",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "85",
+      "state": "DC",
+      "street_name": "H Street NW",
+      "zip": "20002",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0115173,
+      "lat": 38.9007143
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071cc",
+    "name": "ANNANDALE",
+    "phone_number": "(703) 941-5770",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7030",
+      "state": "VA",
+      "street_name": "Little River Turnpike",
+      "zip": "22003",
+      "city": "Annandale"
+    },
+    "geocode": {
+      "lng": -77.1889159,
+      "lat": 38.8297662
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071cb",
+    "name": "MERRIFIELD",
+    "phone_number": "(703) 560-2170",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3046",
+      "state": "VA",
+      "street_name": "Gatehouse Plaza",
+      "zip": "22042",
+      "city": "Falls Church"
+    },
+    "geocode": {
+      "lng": -77.2301317,
+      "lat": 38.8664503
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ce",
+    "name": "FEDERAL GATEWAY PLAZA",
+    "phone_number": "(202) 314-3880",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1100",
+      "state": "DC",
+      "street_name": "New Jersey AVE, SE",
+      "zip": "20003",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0040154,
+      "lat": 38.8770883
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071cf",
+    "name": "CAPITOL HILL",
+    "phone_number": "(202) 543-2510",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "336",
+      "state": "DC",
+      "street_name": "Pennsylvania AVE, SE",
+      "zip": "20003",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -77.0008256,
+      "lat": 38.8868701
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d0",
+    "name": "BRADLICK SHOPPING CENTER",
+    "phone_number": "(703) 642-4970",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7000",
+      "state": "VA",
+      "street_name": "Bradlick Shopping Center",
+      "zip": "22003",
+      "city": "Annandale"
+    },
+    "geocode": {
+      "lng": -77.1847098,
+      "lat": 38.7797446
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071cd",
+    "name": "CHEVY CHASE LAKE",
+    "phone_number": "(301) 986-7560",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8401",
+      "state": "MD",
+      "street_name": "Connecticut AVE",
+      "zip": "20815",
+      "city": "Chevy Chase"
+    },
+    "geocode": {
+      "lng": -77.0763425,
+      "lat": 38.9943328
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d1",
+    "name": "VIENNA",
+    "phone_number": "(703) 242-5810",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "246",
+      "state": "VA",
+      "street_name": "Maple AVE East",
+      "zip": "22180",
+      "city": "Vienna"
+    },
+    "geocode": {
+      "lng": -77.26190199999999,
+      "lat": 38.904818
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d3",
+    "name": "CARLYLE PLACE",
+    "phone_number": "(703) 684-3001",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 10 AM - 5 PM",
+      "Wed 10 AM - 5 PM",
+      "Thu 10 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "2051",
+      "state": "VA",
+      "street_name": "Jamieson AVE, Suite 150",
+      "zip": "22314",
+      "city": "Alexandria"
+    },
+    "geocode": {
+      "lng": -77.064458,
+      "lat": 38.804034
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d4",
+    "name": "RIGGS ROAD",
+    "phone_number": "(301) 559-5547",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5823",
+      "state": "MD",
+      "street_name": "Eastern AVE",
+      "zip": "20782",
+      "city": "Chillum"
+    },
+    "geocode": {
+      "lng": -76.9642504,
+      "lat": 38.9358531
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d2",
+    "name": "PAN AM",
+    "phone_number": "(703) 205-2990",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3095",
+      "state": "VA",
+      "street_name": "Nutley ST",
+      "zip": "22031",
+      "city": "Fairfax"
+    },
+    "geocode": {
+      "lng": -77.2623614,
+      "lat": 38.8703504
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d5",
+    "name": "SILVER SPRING",
+    "phone_number": "(301) 588-7000",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8315",
+      "state": "MD",
+      "street_name": "Georgia AVE",
+      "zip": "20910",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.0263252,
+      "lat": 38.9932522
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d6",
+    "name": "8676 GEORGIA AVENUE",
+    "phone_number": "(301) 427-3833",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8676",
+      "state": "MD",
+      "street_name": "Georgia AVE",
+      "zip": "20910",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.02986279999999,
+      "lat": 38.9971571
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d8",
+    "name": "OLD TOWNE",
+    "phone_number": "(703) 838-3655",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "500",
+      "state": "VA",
+      "street_name": "S. Washington ST",
+      "zip": "22314",
+      "city": "Alexandria"
+    },
+    "geocode": {
+      "lng": -77.047769,
+      "lat": 38.8000264
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d7",
+    "name": "GEORGETOWN SQUARE",
+    "phone_number": "(301) 564-5322",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10400",
+      "state": "MD",
+      "street_name": "Old Georgetown Road",
+      "zip": "20814",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.12731459999999,
+      "lat": 39.0252174
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071d9",
+    "name": "FRANCONIA",
+    "phone_number": "(703) 313-4600",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5511",
+      "state": "VA",
+      "street_name": "Franconia Road",
+      "zip": "22310",
+      "city": "ALEXANDRIA"
+    },
+    "geocode": {
+      "lng": -77.1301155,
+      "lat": 38.7837822
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071da",
+    "name": "MAGRUDER HOUSE",
+    "phone_number": "(301) 365-5100",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7340",
+      "state": "MD",
+      "street_name": "Westlake Terrace",
+      "zip": "20817",
+      "city": "Bethesda"
+    },
+    "geocode": {
+      "lng": -77.14787419999999,
+      "lat": 39.0269899
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071db",
+    "name": "FAIR CITY MALL",
+    "phone_number": "(703) 425-0687",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3941",
+      "state": "VA",
+      "street_name": "Pickett Road",
+      "zip": "22031",
+      "city": "Fairfax"
+    },
+    "geocode": {
+      "lng": -77.2722943,
+      "lat": 38.8442577
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071dd",
+    "name": "ANACOSTIA",
+    "phone_number": "(202) 575-4058",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2831",
+      "state": "DC",
+      "street_name": "Alabama AVE, SE",
+      "zip": "20020",
+      "city": "Washington"
+    },
+    "geocode": {
+      "lng": -76.96759320000001,
+      "lat": 38.8585879
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071dc",
+    "name": "POTOMAC",
+    "phone_number": "(301) 983-2900",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10211",
+      "state": "MD",
+      "street_name": "River Road",
+      "zip": "20854",
+      "city": "Potomac"
+    },
+    "geocode": {
+      "lng": -77.20920389999999,
+      "lat": 39.0184222
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071df",
+    "name": "KENSINGTON",
+    "phone_number": "(301) 949-4401",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10707",
+      "state": "MD",
+      "street_name": "Connecticut Ave",
+      "zip": "20895",
+      "city": "Kensington"
+    },
+    "geocode": {
+      "lng": -77.07471699999999,
+      "lat": 39.031229
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071de",
+    "name": "COMMERCE STREET",
+    "phone_number": "(703) 455-2380",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6949",
+      "state": "VA",
+      "street_name": "Commerce ST",
+      "zip": "22150",
+      "city": "Springfield"
+    },
+    "geocode": {
+      "lng": -77.1859315,
+      "lat": 38.7818524
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e0",
+    "name": "ARLISS",
+    "phone_number": "(301) 589-5640",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8740",
+      "state": "MD",
+      "street_name": "Arliss ST",
+      "zip": "20901",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.00186479999999,
+      "lat": 38.9996868
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e2",
+    "name": "CABIN JOHN",
+    "phone_number": "(301) 299-5800",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7941",
+      "state": "MD",
+      "street_name": "Tuckerman Lane",
+      "zip": "20854",
+      "city": "Potomac"
+    },
+    "geocode": {
+      "lng": -77.1569827,
+      "lat": 39.041066
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e1",
+    "name": "HAMPSHIRE-LANGLEY",
+    "phone_number": "(301) 439-7900",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1181",
+      "state": "MD",
+      "street_name": "University Boulevard",
+      "zip": "20912",
+      "city": "Takoma Park"
+    },
+    "geocode": {
+      "lng": -76.98858179999999,
+      "lat": 38.9884198
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e3",
+    "name": "CHAIN BRIDGE ROAD/OAKTON",
+    "phone_number": "(703) 255-6485",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2938",
+      "state": "VA",
+      "street_name": "Chain Bridge Rd",
+      "zip": "22124",
+      "city": "Oakton"
+    },
+    "geocode": {
+      "lng": -77.3005261,
+      "lat": 38.8816527
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e4",
+    "name": "BEACON MALL",
+    "phone_number": "(703) 660-7170",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6790",
+      "state": "VA",
+      "street_name": "Richmond Highway",
+      "zip": "22306",
+      "city": "Alexandria"
+    },
+    "geocode": {
+      "lng": -77.0822216,
+      "lat": 38.7699643
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e5",
+    "name": "NICHOLSON LANE/ROCKVILLE",
+    "phone_number": "(301) 255-6322",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5041",
+      "state": "MD",
+      "street_name": "Nicholson Lane",
+      "zip": "20852",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1039959,
+      "lat": 39.0466173
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e7",
+    "name": "FOUR CORNERS",
+    "phone_number": "(301) 754-1663",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "115",
+      "state": "MD",
+      "street_name": "University Boulevard W.",
+      "zip": "20901",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.014313,
+      "lat": 39.0216274
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e8",
+    "name": "GEORGIA AVENUE",
+    "phone_number": "(301) 929-6870",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "11241",
+      "state": "MD",
+      "street_name": "Georgia AVE",
+      "zip": "20902",
+      "city": "Wheaton"
+    },
+    "geocode": {
+      "lng": -77.05095759999999,
+      "lat": 39.0399013
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e9",
+    "name": "PRINCE GEORGE'S PLAZA",
+    "phone_number": "(301) 559-2080",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6400",
+      "state": "MD",
+      "street_name": "Belcrest Road",
+      "zip": "20782",
+      "city": "Hyattsville"
+    },
+    "geocode": {
+      "lng": -76.950817,
+      "lat": 38.965015
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ea",
+    "name": "OXON HILL",
+    "phone_number": "(301) 839-8092",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6197",
+      "state": "MD",
+      "street_name": "Oxon Hill Road",
+      "zip": "20745",
+      "city": "Oxon Hill"
+    },
+    "geocode": {
+      "lng": -76.9830446,
+      "lat": 38.8041663
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071e6",
+    "name": "OLD GEORGETOWN ROAD/ROCKVILLE",
+    "phone_number": "(301) 255-1080",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "11575",
+      "state": "MD",
+      "street_name": "Old Georgetown Road",
+      "zip": "20852",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.11770500000002,
+      "lat": 39.048323
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071eb",
+    "name": "FLAGSHIP",
+    "phone_number": "(301) 881-9116",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12097",
+      "state": "MD",
+      "street_name": "Rockville Pike",
+      "zip": "20852",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1181744,
+      "lat": 39.05565290000001
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ec",
+    "name": "OLD KEENE MILL",
+    "phone_number": "(703) 866-7709",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8436",
+      "state": "VA",
+      "street_name": "Old Keene Mill Road",
+      "zip": "22152",
+      "city": "Springfield"
+    },
+    "geocode": {
+      "lng": -77.2364017,
+      "lat": 38.7790146
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ed",
+    "name": "BOULEVARD SHOPPING CENTER/FAIRFAX",
+    "phone_number": "(703) 267-7460",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10670",
+      "state": "VA",
+      "street_name": "Fairfax Boulevard",
+      "zip": "22030",
+      "city": "Fairfax"
+    },
+    "geocode": {
+      "lng": -77.31286,
+      "lat": 38.856599
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ee",
+    "name": "KEMP MILL",
+    "phone_number": "(301) 649-2050",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1327",
+      "state": "MD",
+      "street_name": "Lamberton Drive",
+      "zip": "20902",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.03144879999999,
+      "lat": 39.0411056
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f0",
+    "name": "GREAT FALLS",
+    "phone_number": "(703) 759-4711",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9883",
+      "state": "VA",
+      "street_name": "Georgetown Pike",
+      "zip": "22066",
+      "city": "Great Falls"
+    },
+    "geocode": {
+      "lng": -77.287893,
+      "lat": 38.9972567
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ef",
+    "name": "VEIRS MILL",
+    "phone_number": "(301) 949-7133",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12228",
+      "state": "MD",
+      "street_name": "Veirs Mill Road",
+      "zip": "20906",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.08511179999999,
+      "lat": 39.0572185
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f1",
+    "name": "SILVER HILL",
+    "phone_number": "(301) 423-8550",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3601",
+      "state": "MD",
+      "street_name": "St. Barnabas Road",
+      "zip": "20746",
+      "city": "Silver Hill"
+    },
+    "geocode": {
+      "lng": -76.9424773,
+      "lat": 38.8402846
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f2",
+    "name": "CONGRESSIONAL PLAZA",
+    "phone_number": "(301) 984-4850",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "101",
+      "state": "MD",
+      "street_name": "Halpine Road",
+      "zip": "20852",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1247908,
+      "lat": 39.0617521
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f3",
+    "name": "UNIVERSITY OF MARYLAND",
+    "phone_number": "(301) 864-8722",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "P.O. Box 170",
+      "state": "MD",
+      "street_name": "",
+      "zip": "20742",
+      "city": "College Park"
+    },
+    "geocode": {
+      "lng": -76.93776,
+      "lat": 38.9896967
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f4",
+    "name": "HILLANDALE",
+    "phone_number": "(301) 439-2410",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10159",
+      "state": "MD",
+      "street_name": "New Hampshire AVE",
+      "zip": "20903",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -76.97688450000001,
+      "lat": 39.0213979
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f5",
+    "name": "GLENMONT",
+    "phone_number": "(301) 949-0644",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2315",
+      "state": "MD",
+      "street_name": "Randolph Road",
+      "zip": "20902",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.0489393,
+      "lat": 39.0590308
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f6",
+    "name": "BURKE TOWN PLAZA",
+    "phone_number": "(703) 455-5001",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9564",
+      "state": "VA",
+      "street_name": "Old Keene Mill Rd",
+      "zip": "22015",
+      "city": "Burke"
+    },
+    "geocode": {
+      "lng": -77.27404349999999,
+      "lat": 38.7788988
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f7",
+    "name": "CAPITAL PLAZA",
+    "phone_number": "(301) 773-7177",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6206",
+      "state": "MD",
+      "street_name": "Annapolis Road",
+      "zip": "20784",
+      "city": "Landover Hills"
+    },
+    "geocode": {
+      "lng": -76.9083224,
+      "lat": 38.9395921
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f8",
+    "name": "WHITE OAK",
+    "phone_number": "(301) 681-5500",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "11261",
+      "state": "MD",
+      "street_name": "New Hampshire Ave",
+      "zip": "20904",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -76.9914264,
+      "lat": 39.0420539
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071fa",
+    "name": "SARATOGA",
+    "phone_number": "(703) 455-6181",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8098",
+      "state": "VA",
+      "street_name": "Rolling Road",
+      "zip": "22153",
+      "city": "Springfield"
+    },
+    "geocode": {
+      "lng": -77.2116939,
+      "lat": 38.7393933
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071f9",
+    "name": "ASPEN HILL",
+    "phone_number": "(301) 460-0900",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "13641",
+      "state": "MD",
+      "street_name": "Connecticut AVE",
+      "zip": "20906",
+      "city": "Wheaton"
+    },
+    "geocode": {
+      "lng": -77.079345,
+      "lat": 39.0787953
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071fb",
+    "name": "ROCKSHIRE",
+    "phone_number": "(301) 340-1463",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2409",
+      "state": "MD",
+      "street_name": "Wootton Parkway",
+      "zip": "20850",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1856214,
+      "lat": 39.0808583
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071fc",
+    "name": "HUNGERFORD",
+    "phone_number": "(301) 251-1434",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "387",
+      "state": "MD",
+      "street_name": "Hungerford Drive",
+      "zip": "20850",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1502326,
+      "lat": 39.0883223
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071fd",
+    "name": "FAIRFAX CORNER",
+    "phone_number": "(703) 266-4121",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "11873",
+      "state": "VA",
+      "street_name": "Grand Commons AVE",
+      "zip": "22033",
+      "city": "Fairfax"
+    },
+    "geocode": {
+      "lng": -77.3544726,
+      "lat": 38.8582893
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071ff",
+    "name": "SPECTRUM",
+    "phone_number": "(703) 435-1578",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "11874",
+      "state": "VA",
+      "street_name": "Spectrum Drive",
+      "zip": "20190",
+      "city": "Reston"
+    },
+    "geocode": {
+      "lng": -77.3554856,
+      "lat": 38.960734
+    }
+  },
+  {
+    "_id": "56c66be5a73e4927415071fe",
+    "name": "GREAT EASTERN",
+    "phone_number": "(301) 967-4840",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6335",
+      "state": "MD",
+      "street_name": "Marlboro Pike",
+      "zip": "20747",
+      "city": "District Heights"
+    },
+    "geocode": {
+      "lng": -76.8968,
+      "lat": 38.8529185
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507200",
+    "name": "RESTON TOWN CENTER",
+    "phone_number": "(703) 435-7727",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "1824",
+      "state": "VA",
+      "street_name": "Library ST",
+      "zip": "20190",
+      "city": "Reston"
+    },
+    "geocode": {
+      "lng": -77.35863119999999,
+      "lat": 38.9585119
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507202",
+    "name": "GREENBELT PLAZA MALL",
+    "phone_number": "(301) 345-2424",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6226",
+      "state": "MD",
+      "street_name": "Greenbelt Road",
+      "zip": "20770",
+      "city": "Greenbelt"
+    },
+    "geocode": {
+      "lng": -76.9087504,
+      "lat": 38.9977692
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507201",
+    "name": "ROCK CREEK VILLAGE",
+    "phone_number": "(301) 603-7230",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5552",
+      "state": "MD",
+      "street_name": "Norbeck Road",
+      "zip": "20853",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1125617,
+      "lat": 39.0951431
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507204",
+    "name": "PENDER VILLAGE CENTER/FAIRFAX",
+    "phone_number": "(703) 267-3620",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3907",
+      "state": "VA",
+      "street_name": "Fair Ridge Drive",
+      "zip": "22033",
+      "city": "Fairfax"
+    },
+    "geocode": {
+      "lng": -77.3730126,
+      "lat": 38.8722118
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507205",
+    "name": "WEST TECH PARK/SILVER SPRING",
+    "phone_number": "(301) 625-5803",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12293",
+      "state": "MD",
+      "street_name": "Tech Road",
+      "zip": "20904",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -76.9670436,
+      "lat": 39.0576262
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507206",
+    "name": "PLAZA DEL MERCADO",
+    "phone_number": "(301) 598-5600",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2215",
+      "state": "MD",
+      "street_name": "Bel Pre Road",
+      "zip": "20906",
+      "city": "Wheaton"
+    },
+    "geocode": {
+      "lng": -77.04678520000002,
+      "lat": 39.0905382
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507203",
+    "name": "COLESVILLE",
+    "phone_number": "(301) 680-8660",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "13301",
+      "state": "MD",
+      "street_name": "New Hampshire AVE",
+      "zip": "20904",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.0025975,
+      "lat": 39.07319930000001
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507207",
+    "name": "TRAVILLE VILLAGE CENTER",
+    "phone_number": "(301) 217-2022",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9761",
+      "state": "MD",
+      "street_name": "Traville Gateway Drive",
+      "zip": "20850",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.202846,
+      "lat": 39.0926471
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507208",
+    "name": "FALLS GROVE",
+    "phone_number": "(301) 315-2471",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "14943",
+      "state": "MD",
+      "street_name": "Shady Grove Road",
+      "zip": "20850",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1935101,
+      "lat": 39.0976479
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507209",
+    "name": "LEISURE WORLD",
+    "phone_number": "(301) 438-2501",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3828",
+      "state": "MD",
+      "street_name": "International Drive",
+      "zip": "20906",
+      "city": "Silver Spring"
+    },
+    "geocode": {
+      "lng": -77.0757311,
+      "lat": 39.1036913
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150720a",
+    "name": "FORT WASHINGTON",
+    "phone_number": "(301) 203-2905",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "980",
+      "state": "MD",
+      "street_name": "E. Swan Creek Road",
+      "zip": "20744",
+      "city": "Fort Washington"
+    },
+    "geocode": {
+      "lng": -76.9917377,
+      "lat": 38.7255719
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150720b",
+    "name": "BELTSVILLE",
+    "phone_number": "(301) 595-1860",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10800",
+      "state": "MD",
+      "street_name": "Baltimore AVE",
+      "zip": "20705",
+      "city": "Beltsville"
+    },
+    "geocode": {
+      "lng": -76.912493,
+      "lat": 39.031856
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150720d",
+    "name": "KING FARM",
+    "phone_number": "(301) 921-8540",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "802",
+      "state": "MD",
+      "street_name": "Pleasant Drive",
+      "zip": "20850",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.17137369999999,
+      "lat": 39.1138753
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150720e",
+    "name": "WOODLAND CROSSING/HERNDON",
+    "phone_number": "(703) 668-8500",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12951",
+      "state": "VA",
+      "street_name": "Highland Crossing Dr. Suite A",
+      "zip": "20171",
+      "city": "Herndon"
+    },
+    "geocode": {
+      "lng": -77.3945092,
+      "lat": 38.9491429
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150720f",
+    "name": "LORTON",
+    "phone_number": "(703) 493-9503",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8981",
+      "state": "VA",
+      "street_name": "Ox Road",
+      "zip": "22079",
+      "city": "Lorton"
+    },
+    "geocode": {
+      "lng": -77.26236519999999,
+      "lat": 38.7140667
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507210",
+    "name": "FRANKLIN FARM",
+    "phone_number": "(703) 834-3602",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "13344-A",
+      "state": "VA",
+      "street_name": "Franklin Farm Road",
+      "zip": "20171",
+      "city": "Herndon"
+    },
+    "geocode": {
+      "lng": -77.4083935,
+      "lat": 38.9072869
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150720c",
+    "name": "GREENWAY CENTER",
+    "phone_number": "(301) 614-2400",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7515",
+      "state": "MD",
+      "street_name": "Greenbelt Road",
+      "zip": "20770",
+      "city": "Greenbelt"
+    },
+    "geocode": {
+      "lng": -76.8780764,
+      "lat": 38.99350039999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507211",
+    "name": "HERNDON",
+    "phone_number": "(703) 467-8770",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1201",
+      "state": "VA",
+      "street_name": "Elden ST",
+      "zip": "20170",
+      "city": "Herndon"
+    },
+    "geocode": {
+      "lng": -77.3988895,
+      "lat": 38.96223519999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507212",
+    "name": "STERLING TOWN CENTER",
+    "phone_number": "(703) 948-1140",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "21700",
+      "state": "VA",
+      "street_name": "Town Center Plaza",
+      "zip": "20164",
+      "city": "Sterling"
+    },
+    "geocode": {
+      "lng": -77.4052123,
+      "lat": 39.0334919
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507213",
+    "name": "MUDDY BRANCH",
+    "phone_number": "(301) 330-5353",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "812",
+      "state": "MD",
+      "street_name": "Muddy Branch Road",
+      "zip": "20878",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.2159336,
+      "lat": 39.1143906
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507214",
+    "name": "LARGO TOWN CENTER",
+    "phone_number": "(301) 808-1140",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1040",
+      "state": "MD",
+      "street_name": "Largo Center Drive",
+      "zip": "20774",
+      "city": "Largo"
+    },
+    "geocode": {
+      "lng": -76.83723619999999,
+      "lat": 38.9023282
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507215",
+    "name": "SHADY GROVE",
+    "phone_number": "(301) 869-8403",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "16827",
+      "state": "MD",
+      "street_name": "Crabbs Branch Way",
+      "zip": "20855",
+      "city": "Rockville"
+    },
+    "geocode": {
+      "lng": -77.1680586,
+      "lat": 39.1300315
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507216",
+    "name": "CLINTON CROSSING",
+    "phone_number": "(301) 877-7002",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8845",
+      "state": "MD",
+      "street_name": "Branch AVE",
+      "zip": "20735",
+      "city": "Clinton"
+    },
+    "geocode": {
+      "lng": -76.8797199,
+      "lat": 38.7511838
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507217",
+    "name": "DARNESTOWN",
+    "phone_number": "(301) 926-4411",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12201",
+      "state": "MD",
+      "street_name": "Darnestown Road",
+      "zip": "20878",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.25308299999999,
+      "lat": 39.118362
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507218",
+    "name": "KENTLANDS",
+    "phone_number": "(301) 212-4085",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "317",
+      "state": "MD",
+      "street_name": "Kentlands Boulevard",
+      "zip": "20878",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.2382506,
+      "lat": 39.123809
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507219",
+    "name": "CHANTILLY",
+    "phone_number": "(703) 263-1415",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "14001",
+      "state": "VA",
+      "street_name": "Lee Jackson Memorial Highway",
+      "zip": "20151",
+      "city": "Chantilly"
+    },
+    "geocode": {
+      "lng": -77.4317798,
+      "lat": 38.8938701
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150721a",
+    "name": "VISTA GARDENS/LANHAM",
+    "phone_number": "(301) 805-6063",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10651",
+      "state": "MD",
+      "street_name": "Martin Luther King, Jr. Highway",
+      "zip": "20720",
+      "city": "Bowie"
+    },
+    "geocode": {
+      "lng": -76.822688,
+      "lat": 38.955353
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150721c",
+    "name": "CENTREVILLE",
+    "phone_number": "(703) 815-4444",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5902",
+      "state": "VA",
+      "street_name": "Old Centreville Road",
+      "zip": "20121",
+      "city": "Centreville"
+    },
+    "geocode": {
+      "lng": -77.43151,
+      "lat": 38.8357817
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150721b",
+    "name": "POTOMAC RUN",
+    "phone_number": "(703) 421-1020",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "46160",
+      "state": "VA",
+      "street_name": "Potomac Run Plaza",
+      "zip": "20164",
+      "city": "Sterling"
+    },
+    "geocode": {
+      "lng": -77.40228479999999,
+      "lat": 39.0252633
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150721d",
+    "name": "CASCADES",
+    "phone_number": "(703) 450-7050",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "20970",
+      "state": "VA",
+      "street_name": "Southbank ST",
+      "zip": "20165",
+      "city": "Potomac Falls"
+    },
+    "geocode": {
+      "lng": -77.3977926,
+      "lat": 39.0347727
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150721f",
+    "name": "OLNEY",
+    "phone_number": "(301) 774-2420",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "17831",
+      "state": "MD",
+      "street_name": "Georgia AVE",
+      "zip": "20832",
+      "city": "Olney"
+    },
+    "geocode": {
+      "lng": -77.0664773,
+      "lat": 39.1501836
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150721e",
+    "name": "DIAMOND SQUARE",
+    "phone_number": "(301) 963-3030",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12",
+      "state": "MD",
+      "street_name": "Bureau Drive",
+      "zip": "20878",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.2177942,
+      "lat": 39.1428654
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507221",
+    "name": "Burtonsville Town Square",
+    "phone_number": "(301) 476-8789",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "15664",
+      "state": "MD",
+      "street_name": "Old Columbia Pike",
+      "zip": "20866",
+      "city": "Burtonsville"
+    },
+    "geocode": {
+      "lng": -76.9337911,
+      "lat": 39.11131779999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507220",
+    "name": "OLNEY TOWN CENTER",
+    "phone_number": "(301) 924-5690",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "18104",
+      "state": "MD",
+      "street_name": "Town Center Drive",
+      "zip": "20832",
+      "city": "Olney"
+    },
+    "geocode": {
+      "lng": -77.06269329999999,
+      "lat": 39.1516869
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507222",
+    "name": "DULLES INTERNATIONAL",
+    "phone_number": "(703) 661-5091",
+    "hours": [
+      "Sun 11 AM - 4 PM",
+      "Mon 8 AM - 6 PM",
+      "Tue 8 AM - 6 PM",
+      "Wed 8 AM - 6 PM",
+      "Thu 8 AM - 6 PM",
+      "Fri 8 AM - 6 PM",
+      "Sat 8 AM - 4 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Sunday",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1",
+      "state": "VA",
+      "street_name": "Saarinen Circle",
+      "zip": "20166",
+      "city": "Dulles"
+    },
+    "geocode": {
+      "lng": -77.4480674,
+      "lat": 38.9525892
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507223",
+    "name": "GAITHERSBURG",
+    "phone_number": "(301) 947-3696",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "509",
+      "state": "MD",
+      "street_name": "N. Frederick AVE",
+      "zip": "20877",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.2106982,
+      "lat": 39.1518425
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507224",
+    "name": "STONE ROAD VILLAGE",
+    "phone_number": "(703) 802-4774",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5601",
+      "state": "VA",
+      "street_name": "Stone Road",
+      "zip": "20120",
+      "city": "Centreville"
+    },
+    "geocode": {
+      "lng": -77.4495518,
+      "lat": 38.85499859999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507226",
+    "name": "DULLES 28/STERLING",
+    "phone_number": "(703) 433-6680",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "21990",
+      "state": "VA",
+      "street_name": "Colorado Drive",
+      "zip": "20166",
+      "city": "Sterling"
+    },
+    "geocode": {
+      "lng": -77.4376746,
+      "lat": 39.0077102
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507227",
+    "name": "DULLES TOWN CENTER",
+    "phone_number": "(703) 406-7340",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "21100",
+      "state": "VA",
+      "street_name": "Dulles Town Circle, Suite 154",
+      "zip": "20166",
+      "city": "Dulles"
+    },
+    "geocode": {
+      "lng": -77.4234606,
+      "lat": 39.0318656
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507228",
+    "name": "CONTEE ROAD / LAUREL",
+    "phone_number": "(301) 497-4121",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "13600",
+      "state": "MD",
+      "street_name": "Baltimore AVE Suite 800",
+      "zip": "20707",
+      "city": "Laurel"
+    },
+    "geocode": {
+      "lng": -76.8694496,
+      "lat": 39.0778305
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507225",
+    "name": "DULLES TOWN CROSSING",
+    "phone_number": "(703) 444-8441",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "45545",
+      "state": "VA",
+      "street_name": "Dulles Eastern Plaza",
+      "zip": "20166",
+      "city": "Sterling"
+    },
+    "geocode": {
+      "lng": -77.42435329999999,
+      "lat": 39.024146
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507229",
+    "name": "CLOPPER MILL",
+    "phone_number": "(301) 353-8402",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "18006",
+      "state": "MD",
+      "street_name": "Mateny Road",
+      "zip": "20874",
+      "city": "Germantown"
+    },
+    "geocode": {
+      "lng": -77.27475760000002,
+      "lat": 39.1475345
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150722a",
+    "name": "MONTGOMERY VILLAGE",
+    "phone_number": "(301) 330-4238",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10011",
+      "state": "MD",
+      "street_name": "Stedwick Road",
+      "zip": "20886",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.207241,
+      "lat": 39.170525
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150722b",
+    "name": "KINGSVIEW/GERMANTOWN",
+    "phone_number": "(301) 540-2810",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "13408",
+      "state": "MD",
+      "street_name": "Kingsview Village Ave",
+      "zip": "20874",
+      "city": "Germantown"
+    },
+    "geocode": {
+      "lng": -77.2792611,
+      "lat": 39.1598496
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150722c",
+    "name": "THE GLEN",
+    "phone_number": "(703) 590-2111",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4229",
+      "state": "VA",
+      "street_name": "Merchant Plaza",
+      "zip": "22192",
+      "city": "Woodbridge"
+    },
+    "geocode": {
+      "lng": -77.3344445,
+      "lat": 38.67350589999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150722d",
+    "name": "Eastern Marketplace/Chantilly",
+    "phone_number": "(703) 327-5100",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "25400",
+      "state": "VA",
+      "street_name": "Eastern Marketplace Plaza",
+      "zip": "20152",
+      "city": "Chantilly"
+    },
+    "geocode": {
+      "lng": -77.48786199999999,
+      "lat": 38.9145961
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150722f",
+    "name": "GOSHEN",
+    "phone_number": "(301) 258-9584",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "20000",
+      "state": "MD",
+      "street_name": "Goshen Road",
+      "zip": "20879",
+      "city": "Gaithersburg"
+    },
+    "geocode": {
+      "lng": -77.1890355,
+      "lat": 39.1858304
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507230",
+    "name": "SHOPS AT COUNTY CENTER/HOADLY",
+    "phone_number": "(703) 897-6800",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12891",
+      "state": "VA",
+      "street_name": "Galveston Court",
+      "zip": "20112",
+      "city": "Manassas"
+    },
+    "geocode": {
+      "lng": -77.3638861,
+      "lat": 38.6788052
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507231",
+    "name": "GERMANTOWN TOWN CENTER",
+    "phone_number": "(301) 916-8550",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "19801",
+      "state": "MD",
+      "street_name": "Century Boulevard",
+      "zip": "20874",
+      "city": "Germantown"
+    },
+    "geocode": {
+      "lng": -77.26800659999999,
+      "lat": 39.1803311
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150722e",
+    "name": "LAUREL SHOPPING CENTER",
+    "phone_number": "(301) 497-6923",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1025",
+      "state": "MD",
+      "street_name": "Washington Blvd",
+      "zip": "20707",
+      "city": "Laurel"
+    },
+    "geocode": {
+      "lng": -76.8538429,
+      "lat": 39.0951371
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507232",
+    "name": "SIGNAL HILL",
+    "phone_number": "(703) 257-1605",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9560",
+      "state": "VA",
+      "street_name": "Liberia AVE",
+      "zip": "20110",
+      "city": "Manassas"
+    },
+    "geocode": {
+      "lng": -77.4498947,
+      "lat": 38.7492746
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507234",
+    "name": "WOODBRIDGE",
+    "phone_number": "(703) 492-2860",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "14901",
+      "state": "VA",
+      "street_name": "Neighborhood Way",
+      "zip": "22191",
+      "city": "Woodbridge"
+    },
+    "geocode": {
+      "lng": -77.2887605,
+      "lat": 38.6303597
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507233",
+    "name": "ASHBURN TOWN SQUARE",
+    "phone_number": "(703) 729-8361",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "43931",
+      "state": "VA",
+      "street_name": "Farmwell Hunt Plaza",
+      "zip": "20147",
+      "city": "Ashburn"
+    },
+    "geocode": {
+      "lng": -77.4811038,
+      "lat": 39.0228517
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507235",
+    "name": "ASHBURN VILLAGE",
+    "phone_number": "(703) 729-1500",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "44151",
+      "state": "VA",
+      "street_name": "Ashburn Shopping Plaza",
+      "zip": "20147",
+      "city": "Ashburn"
+    },
+    "geocode": {
+      "lng": -77.4737347,
+      "lat": 39.0431277
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507236",
+    "name": "CHESHIRE STATION",
+    "phone_number": "(703) 580-7060",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4101",
+      "state": "VA",
+      "street_name": "Cheshire Station Plaza",
+      "zip": "22193",
+      "city": "Dale City"
+    },
+    "geocode": {
+      "lng": -77.33334599999999,
+      "lat": 38.6468711
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507237",
+    "name": "BOWIE",
+    "phone_number": "(301) 464-3618",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "15460",
+      "state": "MD",
+      "street_name": "Annapolis Road",
+      "zip": "20715",
+      "city": "Bowie"
+    },
+    "geocode": {
+      "lng": -76.7324934,
+      "lat": 38.9801487
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507239",
+    "name": "NEELSVILLE",
+    "phone_number": "(301) 528-3654",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "21117",
+      "state": "MD",
+      "street_name": "Frederick Road",
+      "zip": "20876",
+      "city": "Germantown"
+    },
+    "geocode": {
+      "lng": -77.24533149999999,
+      "lat": 39.20431689999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507238",
+    "name": "CORRIDOR MARKETPLACE",
+    "phone_number": "(301) 497-4470",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3355",
+      "state": "MD",
+      "street_name": "Corridor Marketplace",
+      "zip": "20724",
+      "city": "Laurel"
+    },
+    "geocode": {
+      "lng": -76.80815799999999,
+      "lat": 39.0978281
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150723b",
+    "name": "BROADLANDS",
+    "phone_number": "(571) 223-2470",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "43200",
+      "state": "VA",
+      "street_name": "Broadlands Center Plaza",
+      "zip": "20148",
+      "city": "Ashburn"
+    },
+    "geocode": {
+      "lng": -77.508186,
+      "lat": 39.0250957
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150723a",
+    "name": "COLLINGTON PLAZA",
+    "phone_number": "(301) 805-7770",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3400",
+      "state": "MD",
+      "street_name": "Crain Highway",
+      "zip": "20716",
+      "city": "Bowie"
+    },
+    "geocode": {
+      "lng": -76.7186345,
+      "lat": 38.9374507
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150723c",
+    "name": "WALDORF MARKETPLACE",
+    "phone_number": "(301) 885-2460",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "3068",
+      "state": "MD",
+      "street_name": "Waldorf Marketplace",
+      "zip": "20601",
+      "city": "Waldorf"
+    },
+    "geocode": {
+      "lng": -76.91544999999999,
+      "lat": 38.6283485
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150723d",
+    "name": "MANASSAS",
+    "phone_number": "(703) 330-5824",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8120",
+      "state": "VA",
+      "street_name": "Sudley Road",
+      "zip": "20109",
+      "city": "Manassas"
+    },
+    "geocode": {
+      "lng": -77.5103178,
+      "lat": 38.7792751
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150723e",
+    "name": "BRAMBLETON TOWN CENTER",
+    "phone_number": "(703) 542-5720",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "42405",
+      "state": "VA",
+      "street_name": "Ryan Road",
+      "zip": "20148",
+      "city": "Brambleton"
+    },
+    "geocode": {
+      "lng": -77.53509500000001,
+      "lat": 38.9849085
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150723f",
+    "name": "LANSDOWNE",
+    "phone_number": "(571) 333-2438",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "19301",
+      "state": "VA",
+      "street_name": "Promenade Drive",
+      "zip": "20176",
+      "city": "Leesburg"
+    },
+    "geocode": {
+      "lng": -77.4932936,
+      "lat": 39.0797106
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507240",
+    "name": "CLARKSVILLE",
+    "phone_number": "(410) 531-1788",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6090",
+      "state": "MD",
+      "street_name": "Daybreak Circle",
+      "zip": "21029",
+      "city": "Clarksville"
+    },
+    "geocode": {
+      "lng": -76.9380482,
+      "lat": 39.2104587
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507242",
+    "name": "DUMFRIES",
+    "phone_number": "(703) 583-8124",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4425",
+      "state": "VA",
+      "street_name": "Fortuna Center Plaza",
+      "zip": "22025",
+      "city": "Dumfries"
+    },
+    "geocode": {
+      "lng": -77.33379029999999,
+      "lat": 38.5960272
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507243",
+    "name": "ASHLAND SQUARE/MANASSAS",
+    "phone_number": "(703) 580-8030",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "5575",
+      "state": "VA",
+      "street_name": "Ashland Community Square",
+      "zip": "20112",
+      "city": "Manassas"
+    },
+    "geocode": {
+      "lng": -77.3735276,
+      "lat": 38.6130818
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507244",
+    "name": "POTOMAC STATION",
+    "phone_number": "(703) 669-2203",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "607",
+      "state": "VA",
+      "street_name": "Potomac Station Drive",
+      "zip": "20176",
+      "city": "Leesburg"
+    },
+    "geocode": {
+      "lng": -77.5284008,
+      "lat": 39.0985339
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507245",
+    "name": "WAUGH CHAPEL",
+    "phone_number": "(410) 451-5020",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2611",
+      "state": "MD",
+      "street_name": "Brandermill Boulevard",
+      "zip": "21054",
+      "city": "Gambrills"
+    },
+    "geocode": {
+      "lng": -76.67929459999999,
+      "lat": 39.0368696
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507241",
+    "name": "MINSTREL CROSSING/COLUMBIA",
+    "phone_number": "(410) 381-3764",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7085",
+      "state": "MD",
+      "street_name": "Minstrel Way",
+      "zip": "21045",
+      "city": "Columbia"
+    },
+    "geocode": {
+      "lng": -76.8454275,
+      "lat": 39.1764975
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507247",
+    "name": "LA PLATA STATION",
+    "phone_number": "(301) 392-6205",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "20",
+      "state": "MD",
+      "street_name": "Shining Willow Way",
+      "zip": "20646",
+      "city": "La Plata"
+    },
+    "geocode": {
+      "lng": -76.9842596,
+      "lat": 38.5436566
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507246",
+    "name": "DOBBIN CENTER/COLUMBIA",
+    "phone_number": "(410) 730-4371",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6445",
+      "state": "MD",
+      "street_name": "Dobbin Road",
+      "zip": "21045",
+      "city": "Columbia"
+    },
+    "geocode": {
+      "lng": -76.81743089999999,
+      "lat": 39.1958701
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507249",
+    "name": "BRAEMAR VILLAGE CENTER",
+    "phone_number": "(703) 331-3610",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12601",
+      "state": "VA",
+      "street_name": "Braemar Village Center",
+      "zip": "20136",
+      "city": "Bristow"
+    },
+    "geocode": {
+      "lng": -77.5367043,
+      "lat": 38.723303
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507248",
+    "name": "GATEWAY OVERLOOK/COLUMBIA",
+    "phone_number": "(410) 872-2770",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6690",
+      "state": "MD",
+      "street_name": "Marie Curie Drive",
+      "zip": "21075",
+      "city": "Elkridge"
+    },
+    "geocode": {
+      "lng": -76.795525,
+      "lat": 39.18686599999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150724a",
+    "name": "DAMASCUS",
+    "phone_number": "(301) 391-6212",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "26001",
+      "state": "MD",
+      "street_name": "Ridge Road",
+      "zip": "20872",
+      "city": "Damascus"
+    },
+    "geocode": {
+      "lng": -77.2093297,
+      "lat": 39.2847255
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150724c",
+    "name": "LEESBURG",
+    "phone_number": "(703) 669-3061",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "401",
+      "state": "VA",
+      "street_name": "East Market ST",
+      "zip": "20176",
+      "city": "Leesburg"
+    },
+    "geocode": {
+      "lng": -77.5554549,
+      "lat": 39.1101336
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150724b",
+    "name": "VIRGINIA GATEWAY",
+    "phone_number": "(703) 753-3664",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "13236",
+      "state": "VA",
+      "street_name": "Gateway Center Dr",
+      "zip": "20155",
+      "city": "Gainesville"
+    },
+    "geocode": {
+      "lng": -77.6055921,
+      "lat": 38.7970196
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150724d",
+    "name": "ARUNDEL MILLS",
+    "phone_number": "(410) 799-7638",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7566",
+      "state": "MD",
+      "street_name": "Ridge Road",
+      "zip": "21076",
+      "city": "Hanover"
+    },
+    "geocode": {
+      "lng": -76.7210978,
+      "lat": 39.1528704
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150724e",
+    "name": "DORSEY'S SEARCH",
+    "phone_number": "(301) 596-0583",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "4745",
+      "state": "MD",
+      "street_name": "Dorsey Hall Drive",
+      "zip": "21042",
+      "city": "Ellicott City"
+    },
+    "geocode": {
+      "lng": -76.8410894,
+      "lat": 39.24224359999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150724f",
+    "name": "DUNKIRK",
+    "phone_number": "(410) 286-5507",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "10840",
+      "state": "MD",
+      "street_name": "Town Center Boulevard",
+      "zip": "20754",
+      "city": "Dunkirk"
+    },
+    "geocode": {
+      "lng": -76.6582547,
+      "lat": 38.725262
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507251",
+    "name": "EDGEWATER",
+    "phone_number": "(410) 798-6900",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "85",
+      "state": "MD",
+      "street_name": "Stewart Dr",
+      "zip": "21037",
+      "city": "Edgewater"
+    },
+    "geocode": {
+      "lng": -76.56784499999999,
+      "lat": 38.934975
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507252",
+    "name": "ELLICOTT CITY",
+    "phone_number": "(410) 465-2572",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9245",
+      "state": "MD",
+      "street_name": "Baltimore National Pike",
+      "zip": "21042",
+      "city": "Ellicott City"
+    },
+    "geocode": {
+      "lng": -76.8302289,
+      "lat": 39.2767764
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507253",
+    "name": "MADISON CRESCENT/GAINESVILLE",
+    "phone_number": "(703) 753-6468",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "8092",
+      "state": "VA",
+      "street_name": "Crescent Park Drive",
+      "zip": "20155",
+      "city": "Gainesville"
+    },
+    "geocode": {
+      "lng": -77.6649726,
+      "lat": 38.7833112
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507254",
+    "name": "QUARTERFIELD CROSSING/SEVERN",
+    "phone_number": "(410) 766-4002",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7821",
+      "state": "MD",
+      "street_name": "Quarterfield Park Road",
+      "zip": "21144",
+      "city": "Severn"
+    },
+    "geocode": {
+      "lng": -76.6530125,
+      "lat": 39.1507177
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507250",
+    "name": "LYNDWOOD SQUARE/ELKRIDGE",
+    "phone_number": "(410) 796-8144",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6000",
+      "state": "MD",
+      "street_name": "Marshalee Drive",
+      "zip": "21075",
+      "city": "Elkridge"
+    },
+    "geocode": {
+      "lng": -76.77809040000001,
+      "lat": 39.2111345
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507255",
+    "name": "URBANA",
+    "phone_number": "(301) 874-2480",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9122",
+      "state": "MD",
+      "street_name": "Hinks Lane",
+      "zip": "21704",
+      "city": "Frederick"
+    },
+    "geocode": {
+      "lng": -77.3523152,
+      "lat": 39.3283672
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507256",
+    "name": "MT. AIRY",
+    "phone_number": "(301) 829-2186",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "402",
+      "state": "MD",
+      "street_name": "East Ridgeville Boulevard",
+      "zip": "21771",
+      "city": "Mt. Airy"
+    },
+    "geocode": {
+      "lng": -77.1612463,
+      "lat": 39.3640536
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507257",
+    "name": "WEST STREET",
+    "phone_number": "(410) 266-3421",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2063",
+      "state": "MD",
+      "street_name": "West ST",
+      "zip": "21401",
+      "city": "Annapolis"
+    },
+    "geocode": {
+      "lng": -76.53863059999999,
+      "lat": 38.98320229999999
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507258",
+    "name": "GLEN BURNIE",
+    "phone_number": "(410) 766-4460",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "7937",
+      "state": "MD",
+      "street_name": "Ritchie Highway",
+      "zip": "21061",
+      "city": "Glen Burnie"
+    },
+    "geocode": {
+      "lng": -76.60040409999999,
+      "lat": 39.1381741
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150725a",
+    "name": "SEVERNA PARK",
+    "phone_number": "(410) 544-2555",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "500",
+      "state": "MD",
+      "street_name": "Ritchie Highway",
+      "zip": "21146",
+      "city": "Severna Park"
+    },
+    "geocode": {
+      "lng": -76.549261,
+      "lat": 39.080289
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150725b",
+    "name": "STAFFORD MARKETPLACE",
+    "phone_number": "(540) 288-2047",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1025",
+      "state": "VA",
+      "street_name": "Stafford Marketplace",
+      "zip": "22556",
+      "city": "Stafford"
+    },
+    "geocode": {
+      "lng": -77.4098561,
+      "lat": 38.4685384
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507259",
+    "name": "VILLAGE GREENS",
+    "phone_number": "(410) 260-3308",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "501",
+      "state": "MD",
+      "street_name": "South Cherry Grove AVE",
+      "zip": "21401",
+      "city": "Annapolis"
+    },
+    "geocode": {
+      "lng": -76.5199344,
+      "lat": 38.9688398
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150725c",
+    "name": "PURCELLVILLE",
+    "phone_number": "(540) 751-1440",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1010",
+      "state": "VA",
+      "street_name": "East Main ST",
+      "zip": "20132",
+      "city": "Purcellville"
+    },
+    "geocode": {
+      "lng": -77.6985539,
+      "lat": 39.1355978
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150725d",
+    "name": "KINGSBROOK",
+    "phone_number": "(301) 663-7840",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5312",
+      "state": "MD",
+      "street_name": "New Design Road",
+      "zip": "21703",
+      "city": "Frederick"
+    },
+    "geocode": {
+      "lng": -77.4232348,
+      "lat": 39.3801138
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150725f",
+    "name": "URBANA PIKE/FREDERICK",
+    "phone_number": "(301) 698-3030",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5903",
+      "state": "MD",
+      "street_name": "Buckeystown Pike",
+      "zip": "21704",
+      "city": "Frederick"
+    },
+    "geocode": {
+      "lng": -77.4083556,
+      "lat": 39.3970189
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150725e",
+    "name": "Mt Clare Junction",
+    "phone_number": "(410) 246-0180",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1241",
+      "state": "MD",
+      "street_name": "West Pratt Street",
+      "zip": "21223",
+      "city": "Baltimore"
+    },
+    "geocode": {
+      "lng": -76.63750809999999,
+      "lat": 39.2842683
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507260",
+    "name": "NORTHROCK SHOPPING CENTER/WARRENTON",
+    "phone_number": "(540) 341-8050",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "521",
+      "state": "VA",
+      "street_name": "Fletcher Drive",
+      "zip": "20186",
+      "city": "WARRENTON"
+    },
+    "geocode": {
+      "lng": -77.7938736,
+      "lat": 38.7276336
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507261",
+    "name": "Mondawmin Mall",
+    "phone_number": "(443) 792-4347",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "2401",
+      "state": "MD",
+      "street_name": "Liberty Heights Ave (#2725)",
+      "zip": "21215",
+      "city": "Baltimore"
+    },
+    "geocode": {
+      "lng": -76.654697,
+      "lat": 39.3170829
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507262",
+    "name": "CALVERT &amp; BALTIMORE",
+    "phone_number": "(410) 468-3140",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "ATM Available"
+    ],
+    "address": {
+      "street_number": "135",
+      "state": "MD",
+      "street_name": "East Baltimore ST",
+      "zip": "21202",
+      "city": "Baltimore"
+    },
+    "geocode": {
+      "lng": -76.6125252,
+      "lat": 39.2895119
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507263",
+    "name": "Reisterstown",
+    "phone_number": "(410) 622-3844",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "6504",
+      "state": "MD",
+      "street_name": "Reisterstown Rd",
+      "zip": "21215",
+      "city": "Baltimore"
+    },
+    "geocode": {
+      "lng": -76.7029996,
+      "lat": 39.3565224
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507264",
+    "name": "FREDERICK",
+    "phone_number": "(301) 662-6670",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 6 PM",
+      "Tue 9 AM - 6 PM",
+      "Wed 9 AM - 6 PM",
+      "Thu 9 AM - 6 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open after 5 PM",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1009",
+      "state": "MD",
+      "street_name": "West Patrick ST",
+      "zip": "21701",
+      "city": "Frederick"
+    },
+    "geocode": {
+      "lng": -77.445082,
+      "lat": 39.417858
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507265",
+    "name": "FREDERICK TOWN CENTER",
+    "phone_number": "(301) 644-2260",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1305",
+      "state": "MD",
+      "street_name": "W. 7th ST, Suite #39",
+      "zip": "21702",
+      "city": "Frederick"
+    },
+    "geocode": {
+      "lng": -94.6522169,
+      "lat": 37.0747888
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507266",
+    "name": "SHOPS AT MONOCACY",
+    "phone_number": "(301) 663-1003",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1701",
+      "state": "MD",
+      "street_name": "Kingfisher Drive",
+      "zip": "21701",
+      "city": "Frederick"
+    },
+    "geocode": {
+      "lng": -77.38318389999999,
+      "lat": 39.4490663
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507267",
+    "name": "Dundalk Plaza",
+    "phone_number": "(443) 696-4101",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1309",
+      "state": "Md",
+      "street_name": "Merritt Blvd",
+      "zip": "21222",
+      "city": "Dundalk"
+    },
+    "geocode": {
+      "lng": -76.5043889,
+      "lat": 39.2794111
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507268",
+    "name": "KENT ISLAND",
+    "phone_number": "(410) 643-4801",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "119",
+      "state": "MD",
+      "street_name": "South Piney Road",
+      "zip": "21619",
+      "city": "Chester"
+    },
+    "geocode": {
+      "lng": -76.2704801,
+      "lat": 38.9738576
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507269",
+    "name": "CENTRAL PARK",
+    "phone_number": "(540) 548-3210",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "1980",
+      "state": "VA",
+      "street_name": "Carl D. Silver Parkway",
+      "zip": "22401",
+      "city": "Fredericksburg"
+    },
+    "geocode": {
+      "lng": -77.51381800000001,
+      "lat": 38.3086187
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150726b",
+    "name": "HARRISON CROSSING/FREDERICKSBURG",
+    "phone_number": "(540) 785-0144",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "5651",
+      "state": "VA",
+      "street_name": "Plank Road",
+      "zip": "22407",
+      "city": "Fredericksburg"
+    },
+    "geocode": {
+      "lng": -77.5673458,
+      "lat": 38.29193190000001
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150726a",
+    "name": "WESTMINSTER CROSSING",
+    "phone_number": "(410) 871-0132",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "202",
+      "state": "MD",
+      "street_name": "Clifton Boulevard",
+      "zip": "21157",
+      "city": "Westminster"
+    },
+    "geocode": {
+      "lng": -76.9881046,
+      "lat": 39.5845506
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150726c",
+    "name": "MASSAPONAX",
+    "phone_number": "(540) 710-6648",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "9801",
+      "state": "VA",
+      "street_name": "Jefferson Davis Highway",
+      "zip": "22407",
+      "city": "Fredericksburg"
+    },
+    "geocode": {
+      "lng": -77.5046085,
+      "lat": 38.2211308
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150726e",
+    "name": "CULPEPER COLONNADE",
+    "phone_number": "(540) 827-1060",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "15237",
+      "state": "VA",
+      "street_name": "Creativity Drive",
+      "zip": "22701",
+      "city": "Culpeper"
+    },
+    "geocode": {
+      "lng": -77.969124,
+      "lat": 38.48377310000001
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150726d",
+    "name": "SOUTH PLAZA",
+    "phone_number": "(301) 863-3600",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "45210",
+      "state": "MD",
+      "street_name": "Worth AVE",
+      "zip": "20619",
+      "city": "California"
+    },
+    "geocode": {
+      "lng": -76.5106685,
+      "lat": 38.2985423
+    }
+  },
+  {
+    "_id": "56c66be5a73e49274150726f",
+    "name": "WATERSIDE VILLAGE/EASTON",
+    "phone_number": "(410) 770-4300",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "28575",
+      "state": "MD",
+      "street_name": "Marlboro Ave",
+      "zip": "21601",
+      "city": "Easton"
+    },
+    "geocode": {
+      "lng": -76.084896,
+      "lat": 38.7825011
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507270",
+    "name": "CENTRE AT ANTIETAM/HAGERSTOWN",
+    "phone_number": "(301) 745-5011",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "950",
+      "state": "MD",
+      "street_name": "Dual Highway",
+      "zip": "21740",
+      "city": "Hagerstown"
+    },
+    "geocode": {
+      "lng": -77.7019183,
+      "lat": 39.6332388
+    }
+  },
+  {
+    "_id": "56c66be5a73e492741507271",
+    "name": "STONE HOUSE SQUARE/HAGERSTOWN",
+    "phone_number": "(301) 745-5744",
+    "hours": [
+      "Sun",
+      "Mon 9 AM - 5 PM",
+      "Tue 9 AM - 5 PM",
+      "Wed 9 AM - 5 PM",
+      "Thu 9 AM - 5 PM",
+      "Fri 9 AM - 6 PM",
+      "Sat 9 AM - 1 PM"
+    ],
+    "notes": [
+      "Safe Deposit Box",
+      "Branch Drive-Up",
+      "ATM Available",
+      "Open on Saturday"
+    ],
+    "address": {
+      "street_number": "12806",
+      "state": "MD",
+      "street_name": "Shank Farm Way",
+      "zip": "21742",
+      "city": "Hagerstown"
+    },
+    "geocode": {
+      "lng": -77.700267,
+      "lat": 39.66396599999999
+    }
+  }
+]
+

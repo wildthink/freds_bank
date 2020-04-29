@@ -1,0 +1,13 @@
+<UIView; frame = (0 0; 320 568); autoresize = W+H; layer = <CALayer>>
+   | <UIStackView; frame = (40 215; 240 138); opaque = NO; autoresize = RM+BM; layer = <CATransformLayer>>
+   |    | <UILabel; frame = (0 0; 133 43); text = 'Location'; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    | <UILabel; frame = (0 62; 0 0); opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    |    | <_UILabelContentLayer> (layer)
+   |    | <UILabel; frame = (0 81; 0 0); opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    |    | <_UILabelContentLayer> (layer)
+   |    | <UILabel; frame = (0 100; 0 0); opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    |    | <_UILabelContentLayer> (layer)
+   |    | <UILabel; frame = (0 119; 0 0); opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    |    | <_UILabelContentLayer> (layer)
+   |    | <UILabel; frame = (0 138; 0 0); opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    |    | <_UILabelContentLayer> (layer)
