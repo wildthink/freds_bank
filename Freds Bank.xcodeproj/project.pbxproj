@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		9630EF7A245927DE008F843C /* SnapshotTesting in Frameworks */ = {isa = PBXBuildFile; productRef = 9630EF79245927DE008F843C /* SnapshotTesting */; };
+		9630EFCC2460FEAC008F843C /* db_create.sql in Resources */ = {isa = PBXBuildFile; fileRef = 9630EFC92460FEAC008F843C /* db_create.sql */; };
+		9630EFCD2460FEAC008F843C /* atms.json in Resources */ = {isa = PBXBuildFile; fileRef = 9630EFCA2460FEAC008F843C /* atms.json */; };
+		9630EFCE2460FEAC008F843C /* branches.json in Resources */ = {isa = PBXBuildFile; fileRef = 9630EFCB2460FEAC008F843C /* branches.json */; };
 		96AECA402458FE300024833F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AECA3F2458FE300024833F /* AppDelegate.swift */; };
 		96AECA442458FE300024833F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AECA432458FE300024833F /* ViewController.swift */; };
 		96AECA472458FE300024833F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96AECA452458FE300024833F /* Main.storyboard */; };
@@ -37,6 +40,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9630EFC92460FEAC008F843C /* db_create.sql */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = db_create.sql; sourceTree = "<group>"; };
+		9630EFCA2460FEAC008F843C /* atms.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = atms.json; sourceTree = "<group>"; };
+		9630EFCB2460FEAC008F843C /* branches.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = branches.json; sourceTree = "<group>"; };
+		9630EFCF24625F16008F843C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		96AECA3C2458FE300024833F /* Freds Bank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Freds Bank.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96AECA3F2458FE300024833F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96AECA432458FE300024833F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,9 +87,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9630EFC82460FEAC008F843C /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				9630EFC92460FEAC008F843C /* db_create.sql */,
+				9630EFCA2460FEAC008F843C /* atms.json */,
+				9630EFCB2460FEAC008F843C /* branches.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 		96AECA332458FE300024833F = {
 			isa = PBXGroup;
 			children = (
+				9630EFCF24625F16008F843C /* README.md */,
 				96AECA3E2458FE300024833F /* Freds Bank */,
 				96AECA552458FE350024833F /* Freds BankTests */,
 				96AECA602458FE350024833F /* Freds BankUITests */,
@@ -103,6 +121,7 @@
 		96AECA3E2458FE300024833F /* Freds Bank */ = {
 			isa = PBXGroup;
 			children = (
+				9630EFC82460FEAC008F843C /* Data */,
 				96AECA3F2458FE300024833F /* AppDelegate.swift */,
 				96AECA72245903710024833F /* AppViewModel.swift */,
 				96AECA432458FE300024833F /* ViewController.swift */,
@@ -246,7 +265,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9630EFCC2460FEAC008F843C /* db_create.sql in Resources */,
 				96AECA4C2458FE340024833F /* LaunchScreen.storyboard in Resources */,
+				9630EFCD2460FEAC008F843C /* atms.json in Resources */,
+				9630EFCE2460FEAC008F843C /* branches.json in Resources */,
 				96AECA492458FE340024833F /* Assets.xcassets in Resources */,
 				96AECA472458FE300024833F /* Main.storyboard in Resources */,
 			);
